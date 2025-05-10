@@ -46,11 +46,14 @@ Flutter ile geliştirilen bu uygulama, çiftçilikle ilgilenen herkesin bir aray
 ![Ana Sayfa](./anasayfa.png)
 
 ### Mesajlasma
-![Profil Sayfası](./mesaj1.png)
-![Profil Sayfası](./mesaj2.png)
+![mesajlasmaı](./mesaj1.png)
+![mesajlasma](./mesaj2.png)
 
 ### Gönderiler
-![Profil Sayfası](./post.png)
+![post](./post.png)
+
+### Bildirimler
+![Bildirimler](./notifica.png)
 
 ---
 
