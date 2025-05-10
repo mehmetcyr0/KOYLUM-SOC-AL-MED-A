@@ -9,9 +9,9 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'https://lgdtxvzghcuhzwzkjqdz.supabase.co',
+    url: '***',
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxnZHR4dnpnaGN1aHp3emtqcWR6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ3NjE2OTAsImV4cCI6MjA2MDMzNzY5MH0.UuyvHPavskg66tJHp4SNuE0iqn7xnvGRj-QQMEXcPLY',
+        '*******',
   );
 
   // Türkçe tarih formatları için
