@@ -39,8 +39,8 @@ Flutter ile geliştirilen bu uygulama, çiftçilikle ilgilenen herkesin bir aray
 ## 📸 Örnek Görseller
 
 ### Profil Sayfası
-![Profil Sayfası](./screenshots/profile.png)
-![Profil Sayfası](./screenshots/profile2.png)
+![Profil Sayfası](./profil.png)
+![Profil Sayfası](./profil2.png)
 
 ### Ana Sayfa (Köylüm)
 ![Ana Sayfa](./screenshots/home.png)
