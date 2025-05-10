@@ -1,16 +1,56 @@
-# koylum
+# 🚜 KÖYLÜM - Sosyal Medya Uygulaması
 
-A new Flutter project.
+Bu mobil uygulama, çiftçilerin , ziraatcilerin , tarımseverlerin ve Tüccarların  kendi içeriklerini paylaşabildiği, ürünlerini tanıtabildiği, satabildiği ve toplulukla etkileşim kurabildiği sosyal medya tabanlı bir platformdur.
 
-## Getting Started
+Flutter ile geliştirilen bu uygulama, çiftçilikle ilgilenen herkesin bir araya gelebileceği dijital bir köy meydanı işlevi görür.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 👤 **Profil Sayfası:** Kullanıcılar biyografi, uzmanlık alanları ve konum bilgilerini paylaşabilir.
+- 🐄 **Gönderiler:** Metin, etiket ve görsel destekli gönderi paylaşımı.
+- ❤️ **Etkileşim:** Beğenme, yorum yapma ve gönderi paylaşma özelliği.
+- 🛎️ **Bildirimler:** Yeni yorumlar, beğeniler ve takiplerle ilgili bilgilendirme.
+- 💬 **Mesajlaşma:** Kullanıcılar arasında özel mesaj gönderimi 
+- 📓 **Çiftlik Günlüğü:** Kullanıcılar tarımsal tecrübelerini günlük olarak yazabilir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧑‍🌾 Hedef Kitle
+
+- Çiftçiler
+- Tüccarlar
+- Ziraatçiler
+- Kırsal girişimciler
+- Hayvancılık ve tarımla ilgilenen bireyler
+
+---
+
+## 🛠️ Teknolojiler
+
+- **Flutter** – UI geliştirme
+- **Dart** – Ana yazılım dili
+- **Supabase** – Backend (veritabanı, kimlik doğrulama)
+
+
+---
+
+## 📸 Örnek Görseller
+
+### Profil Sayfası
+![Profil Sayfası](./screenshots/profile.png)
+![Profil Sayfası](./screenshots/profile2.png)
+
+### Ana Sayfa (Köylüm)
+![Ana Sayfa](./screenshots/home.png)
+
+### Mesajlasma
+![Profil Sayfası](./screenshots/Mesaj.png)
+
+### Gönderiler
+![Profil Sayfası](./screenshots/gönderi.png)
+
+---
+
+
